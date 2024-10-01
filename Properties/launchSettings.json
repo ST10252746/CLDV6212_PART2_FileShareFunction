@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CLDV6212_FileShareFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7088",
+      "launchBrowser": false
+    }
+  }
+}
